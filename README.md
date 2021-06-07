@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello!
+I'm a Duke undergraduate double majoring in Electrical and Computer Engineering and Computer Science.
+
+### Ongoing Projects
+- [Chrome Extension Scavenger Hunt](https://github.com/TylerJang27/Scav_Hunt_Extension)
+- Raspberry Pi Assorted Projects
+
+### Other Interests
+- Tennis
+- Spikeball
+- Video Games
 
 <!--
 **TylerJang27/TylerJang27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
