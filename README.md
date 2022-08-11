@@ -1,5 +1,5 @@
 ### Hello!
-I'm a Duke undergraduate double majoring in Electrical and Computer Engineering and Computer Science.
+I'm a backend software developer who likes making cool things!
 
 ### Ongoing Projects
 - [Chrome Extension Scavenger Hunt](https://github.com/TylerJang27/Scav_Hunt_Extension)
