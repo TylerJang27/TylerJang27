@@ -1,8 +1,9 @@
 ### Hello!
-I'm a backend software developer who likes making cool things!
+I'm a backend software engineer who likes making cool things!
 
 ### Ongoing Projects
 - [Chrome Extension Scavenger Hunt](https://github.com/TylerJang27/Scav_Hunt_Extension)
+- Cool things at [Trunk](https://github.com/trunk-io)
 - Raspberry Pi Assorted Projects
 
 ### Other Interests
